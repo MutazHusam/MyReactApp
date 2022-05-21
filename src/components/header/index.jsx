@@ -11,7 +11,7 @@ import {
   ScrollDown,
 } from "./style";
 import CV from "../../assets/cv.pdf";
-import ME from "../../assets/me.png";
+import ME from "../../assets/mz1.png";
 import HeaderSocials from "./headerSocials";
 const Header = () => {
   return (

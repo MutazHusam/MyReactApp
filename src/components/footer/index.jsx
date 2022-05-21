@@ -12,7 +12,7 @@ import { BsTwitter } from "react-icons/bs";
 const Footer = () => {
   return (
     <MyFooter>
-      <FooterLogo href="#">MutazHusam</FooterLogo>
+      <FooterLogo href="#">Mutaz Husam</FooterLogo>
       <FooterList>
         <li>
           <a href="#">Home</a>
@@ -48,7 +48,7 @@ const Footer = () => {
         </a>
       </FooterSocial>
       <FooterCopyRight>
-        <small>&copy; MutazHusam All rights reserved To Mz Team</small>
+        <small>&copy; Mutaz Husam All rights reserved To Mz Team</small>
       </FooterCopyRight>
     </MyFooter>
   );

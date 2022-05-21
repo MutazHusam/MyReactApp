@@ -7,9 +7,9 @@ import { HeaderSocialsContainer } from './style';
 const HeaderSocials = () => {
   return (
     <HeaderSocialsContainer>
-        <a href="https://www.linkedin.com/"><LinkedInIcon/></a>
-        <a href="https://github.com/"><GitHubIcon/></a>
-        <a href="https://dribbble.com/"><SportsBasketballIcon/></a>
+        <a href="https://www.linkedin.com/in/mz99/"><LinkedInIcon/></a>
+        <a href="https://github.com/MutazHusam"><GitHubIcon/></a>
+        <a href="https://dribbble.com/Mutaz1999"><SportsBasketballIcon/></a>
 
     </HeaderSocialsContainer>
   )

@@ -6,7 +6,7 @@ import {
   AboutMeContent,
   AboutMeSection,
 } from "./style";
-import ME from "../../assets/me-about.jpg";
+import ME from "../../assets/mz1.png";
 import Card from "../card";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
